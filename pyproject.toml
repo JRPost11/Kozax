@@ -1,0 +1,11 @@
+[project]
+name = "kozax"
+version = "0.8.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "jax[cuda13]",
+    "jaxtyping",
+    "numpy>=1.21.6",
+]
