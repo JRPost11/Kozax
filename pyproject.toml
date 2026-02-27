@@ -9,3 +9,6 @@ dependencies = [
     "jaxtyping",
     "numpy>=1.21.6",
 ]
+
+[tool.setuptools]
+packages = ["kozax"]
